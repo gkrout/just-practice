@@ -6,6 +6,10 @@ class banker()
 {
  void main()
  bankname
+class feedback()
+{
+ void main()
+ feedback
 }
 class demo
 {
