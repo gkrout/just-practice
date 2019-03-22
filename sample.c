@@ -1,3 +1,12 @@
+void master()
+{
+ ********
+}
+
+void master()
+{ 
+ --------
+}
 void main()
 {
  int a,b;
