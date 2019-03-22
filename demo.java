@@ -1,3 +1,8 @@
+class br2()
+{ br2 code
+}
+
+
 class br1()
 {
  br1 code
